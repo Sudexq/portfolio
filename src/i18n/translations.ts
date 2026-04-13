@@ -47,7 +47,7 @@ export const translations = {
                 },
                 {
                     title: "AI Agent Automation Tool",
-                    description: "Built AI agents using Microsoft Copilot Studio during my internship. Automated enterprise workflows with natural language interfaces, integrated with Angular frontend and REST APIs in a production environment.",
+                    description: "Built AI agents using Microsoft Copilot Studio during my internship.",
                     highlight: "Shipped at internship",
                 },
                 {
@@ -225,7 +225,7 @@ export const translations = {
                 },
                 {
                     title: "AI Agent Otomasyon Aracı",
-                    description: "Stajım sırasında Microsoft Copilot Studio ile AI agent'lar geliştirdim. Doğal dil arayüzleri ile kurumsal iş akışlarını otomatize ettim, Angular frontend ve REST API'lerle entegre ettim.",
+                    description: "Stajım sırasında Microsoft Copilot Studio ile AI agent'lar geliştirdim.",
                     highlight: "Stajda Geliştirildi",
                 },
                 {
