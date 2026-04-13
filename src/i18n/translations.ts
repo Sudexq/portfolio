@@ -15,7 +15,7 @@ export const translations = {
             viewProjects: "View Projects",
             contactMe: "Contact me",
             scroll: "scroll",
-            tagline: "Building production-grade interfaces — shipped at Amadeus, Dill (NYC), Trampax & Omreon.",
+            tagline: "As a computer engineering student, I design experiences through code.",
         },
         about: {
             sectionLabel: "01 — About",
