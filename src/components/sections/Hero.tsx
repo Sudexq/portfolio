@@ -140,7 +140,7 @@ export default function Hero() {
             {...fadeUpProps(inView, 3)}
             className="text-base sm:text-lg text-text-muted font-body leading-relaxed max-w-2xl mb-10"
           >
-            {personalInfo.tagline}
+            {t.hero.tagline}
           </motion.p>
 
           {/* CTAs */}

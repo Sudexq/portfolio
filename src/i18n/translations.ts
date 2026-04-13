@@ -28,9 +28,9 @@ export const translations = {
                 "Open to frontend & full-stack roles",
             ],
             bio: [
-                "I'm a Computer Engineering student at Istanbul Kültür University (Class of 2026) with hands-on experience building production frontend systems at 4 companies — including Amadeus Istanbul, a New York-based startup, and an Erasmus+ exchange at the University of Pardubice, Czech Republic.",
-                "I've shipped real features used by real users: refactored 50% of a mobile app in production, built 10+ reusable Angular components at Amadeus, and developed AI agents with Microsoft Copilot Studio. I work confidently in Agile teams across Angular, React, React Native, and Vue.js ecosystems.",
-                "Outside of code: I've traveled to 26 countries, play violin, and shoot photography. I bring the same attention to detail to design as I do to engineering.",
+                "I am a senior Computer Engineering student at Istanbul Kültür University (Class of 2026). As a Frontend Developer Intern at Amadeus, Trampax, Dill (New York), and Omreon Bilişim, I developed production-level systems used by real users. Utilizing Angular, React, React Native, and Vue.js, I took active roles in building reusable components, refactoring applications, and integrating AI Agents.",
+                "In addition to my technical work, I serve as the Social Media Team Lead for the HUAWEI Student Developers (HSD) community, where I manage digital strategies and community engagement. I am also a graduate of the Aspire Leaders Program, an initiative founded by Harvard Business School faculty.",
+                "I maintain an active and disciplined lifestyle outside of engineering; I regularly play tennis, play the violin, and enjoy painting. Having traveled to 26 countries, I combine my global perspective with a passion for photography to maintain a versatile and creative professional profile.",
             ],
         },
         projects: {
@@ -206,9 +206,9 @@ export const translations = {
                 "Frontend & full-stack pozisyonlara açığım",
             ],
             bio: [
-                "Istanbul Kültür Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim (2026 mezunu). Amadeus Istanbul, New York merkezli bir startup ve Pardubice Üniversitesi'nde Erasmus+ değişim programı dahil 4 şirkette production frontend sistemleri geliştirdim.",
-                "Gerçek kullanıcıların kullandığı özellikler geliştirdim: bir mobil uygulamanın %50'sini production ortamında refactor ettim, Amadeus'ta 10+ yeniden kullanılabilir Angular bileşeni yazdım ve Microsoft Copilot Studio ile AI agent'lar geliştirdim. Angular, React, React Native ve Vue.js ekosistemlerinde Agile takımlarla rahatça çalışıyorum.",
-                "Kodun dışında: 26 ülke gezdim, keman çalıyorum ve fotoğraf çekiyorum. Mühendisliğe gösterdiğim özeni tasarıma da taşıyorum.",
+                "İstanbul Kültür Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim. Amadeus, Trampax, Dill (New York) ve Omreon Bilişim bünyesinde Frontend Developer Intern olarak görev alarak; Angular, React, React Native ve Vue.js teknolojileriyle gerçek kullanıcıların deneyimlediği production sistemleri geliştirdim. Bu süreçte yeniden kullanılabilir bileşenler üretme, uygulama refactoring ve AI Agent entegrasyonu konularında aktif rol üstlendim.",
+                "Yazılım geliştirme faaliyetlerimin yanı sıra HUAWEI Student Developers (HSD) topluluğunda Sosyal Medya Ekip Lideri olarak görev yapıyor, dijital strateji ve topluluk yönetimi süreçlerini yürütüyorum. Akademik ve profesyonel gelişimimi desteklemek amacıyla Harvard Business School iştiraki olan Aspire Leaders programını tamamladım.",
+                "Sosyal hayatımda çok yönlülüğe önem veriyor; düzenli olarak tenis oynuyor, keman çalıyor ve resim yapıyorum. Şimdiye kadar 26 ülke gezerek edindiğim vizyonu fotoğrafçılıkla birleştiriyor, aktif ve disiplinli bir öğrencilik hayatı sürdürüyorum.",
             ],
         },
         projects: {
