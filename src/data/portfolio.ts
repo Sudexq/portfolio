@@ -193,7 +193,7 @@ export const experience = [
         company: "University of Pardubice",
         location: "Pardubice, Czech Republic",
         period: "2024 – 2025",
-        duration: "1 year",
+        duration: "6 months",
         description:
             "International exchange as part of BSc Computer Engineering. Gained cross-cultural engineering experience.",
         tags: ["Erasmus+", "Computer Engineering", "Czech Republic"],

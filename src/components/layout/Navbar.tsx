@@ -58,7 +58,7 @@ export default function Navbar() {
           </div>
           <span className="font-display font-semibold text-sm text-text-primary tracking-tight">
             {personalInfo.name.split(" ")[0]}
-            <span className="text-text-muted">.{personalInfo.name.split(" ")[1]?.toLowerCase()}</span>
+            <span className="text-text-muted"> {personalInfo.name.split(" ")[1]}</span>
           </span>
         </a>
 
